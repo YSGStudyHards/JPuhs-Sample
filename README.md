@@ -8,4 +8,4 @@
 * [极光对接官方文档](https://docs.jiguang.cn/jpush/server/push/rest_api_v3_push/)
 * [极光推送.NET-Nuget地址](https://www.nuget.org/packages/Jiguang.JPush/)
 * [极光推送.NET Core版本SDK](https://github.com/jpush/jpush-api-csharp-client)
-* [极光推送.NET Fx版本SDK](https://github.com/jpush/jpush-api-csharp-client/tree/v1)
+* [极光推送.NET Fx4.x版本SDK](https://github.com/jpush/jpush-api-csharp-client/tree/v1)
