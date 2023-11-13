@@ -6,7 +6,7 @@
 
 # 相关链接地址
 * [极光对接官方文档](https://docs.jiguang.cn/jpush/server/push/rest_api_v3_push/)
-* [.NET对接极光消息推送](https://www.cnblogs.com/Can-daydayup/p/15778614.html)
+* [.NET快速对接极光消息推送](https://www.cnblogs.com/Can-daydayup/p/17830405.html)
 * [极光推送.NET-Nuget地址](https://www.nuget.org/packages/Jiguang.JPush/)
 * [极光推送.NET Core版本SDK](https://github.com/jpush/jpush-api-csharp-client)
 * [极光推送.NET Fx4.x版本SDK](https://github.com/jpush/jpush-api-csharp-client/tree/v1)
