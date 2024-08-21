@@ -5,7 +5,7 @@
   JPush 是经过考验的大规模 App 推送平台，每天推送消息量级为数百亿条。 开发者集成 SDK 后，可以通过调用 API 推送消息。同时，JPush 提供可视化的 web 端控制台发送通知，统计分析推送效果。 JPush 全面支持 Android, iOS, Winphone 三大手机平台。
 
 # .NET快速对接极光消息推送教程
-* [.NET快速对接极光消息推送](https://www.cnblogs.com/Can-daydayup/p/17830405.html)
+* [.NET快速对接极光消息推送](https://mp.weixin.qq.com/s/aFzmC-IjiKxtE5j3MK9y2A)
 
 # 相关链接地址
 * [极光对接官方文档](https://docs.jiguang.cn/jpush/server/push/rest_api_v3_push/)
